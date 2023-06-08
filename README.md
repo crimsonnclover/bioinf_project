@@ -34,4 +34,12 @@ Colab: https://colab.research.google.com/drive/1QmViL_kC3SAb2QYCjHZF0LF4eOV6UUip
 
 # E-value
 
+![image](https://github.com/crimsonnclover/bioinf_project/assets/99398496/557e1932-6575-40fd-ba29-264a171c94bb)
+
 # Heatmap
+
+![image](https://github.com/crimsonnclover/bioinf_project/assets/99398496/557bc0a4-1a7d-422c-955f-d16d81171129)
+
+# Выводы
+
+На тепловой карте видно, что белок очень хорошо проявляется у zebrafish, mouse и human, у остальных он практически не проявляется. Значит белок появился у позвоночных организмов.
